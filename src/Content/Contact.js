@@ -2,6 +2,7 @@ import tpoImage from "../images/tpoImage.webp";
 import Ananya from "../images/Ananya.png";
 import Jatin from "../images/webCord2.jpeg";
 import Yashwanth from "../images/Yashwanth.jpg";
+import Akhil from "../images/akhil.jpg";
 
 const WebTeam = [
   {
@@ -107,6 +108,7 @@ const PlacementTeam = [
     name: "Nerella Akhil",
     email: "cs19b1020@iiitr.ac.in",
     phone: "+91 8897073603",
+    image: Akhil
   },
   {
     name: "Yashwanth Vallabhu",
