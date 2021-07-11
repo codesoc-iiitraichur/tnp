@@ -3,6 +3,7 @@ import Ananya from "../images/Ananya.png";
 import Jatin from "../images/webCord2.jpeg";
 import Yashwanth from "../images/Yashwanth.jpg";
 import Akhil from "../images/akhil.jpg";
+import Rohith from "../images/Rohith.jpg";
 
 const WebTeam = [
   {
@@ -103,6 +104,7 @@ const PlacementTeam = [
     name: "Dosawada Rohith",
     email: "cs19b1008@iiitr.ac.in",
     phone: "+91 9394445259",
+    image: Rohith,
   },
   {
     name: "Nerella Akhil",
