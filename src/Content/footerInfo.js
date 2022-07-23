@@ -7,7 +7,7 @@ const Contacts = [
     id: 1,
     name: "Dr. Debasish Mukherjee (Placement Faculty Incharge)",
     email: "fic.placement@iiitr.ac.in",
-    // phoneNum: "+91 8768779475",
+    phoneNum: "+91 7549076247",
   },
   {
     id: 3,
